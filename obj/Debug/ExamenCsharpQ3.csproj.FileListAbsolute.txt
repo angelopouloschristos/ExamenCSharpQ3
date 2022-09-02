@@ -1,0 +1,11 @@
+C:\Users\Christos\Desktop\Projets Github\ExamenCsharpQ3\ExamenCsharpQ3\bin\Debug\ExamenCsharpQ3.exe.config
+C:\Users\Christos\Desktop\Projets Github\ExamenCsharpQ3\ExamenCsharpQ3\bin\Debug\ExamenCsharpQ3.exe
+C:\Users\Christos\Desktop\Projets Github\ExamenCsharpQ3\ExamenCsharpQ3\bin\Debug\ExamenCsharpQ3.pdb
+C:\Users\Christos\Desktop\Projets Github\ExamenCsharpQ3\ExamenCsharpQ3\obj\Debug\ExamenCsharpQ3.csproj.AssemblyReference.cache
+C:\Users\Christos\Desktop\Projets Github\ExamenCsharpQ3\ExamenCsharpQ3\obj\Debug\ExamenCsharpQ3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Christos\Desktop\Projets Github\ExamenCsharpQ3\ExamenCsharpQ3\obj\Debug\ExamenCsharpQ3.Form1.resources
+C:\Users\Christos\Desktop\Projets Github\ExamenCsharpQ3\ExamenCsharpQ3\obj\Debug\ExamenCsharpQ3.Properties.Resources.resources
+C:\Users\Christos\Desktop\Projets Github\ExamenCsharpQ3\ExamenCsharpQ3\obj\Debug\ExamenCsharpQ3.csproj.GenerateResource.cache
+C:\Users\Christos\Desktop\Projets Github\ExamenCsharpQ3\ExamenCsharpQ3\obj\Debug\ExamenCsharpQ3.csproj.CoreCompileInputs.cache
+C:\Users\Christos\Desktop\Projets Github\ExamenCsharpQ3\ExamenCsharpQ3\obj\Debug\ExamenCsharpQ3.exe
+C:\Users\Christos\Desktop\Projets Github\ExamenCsharpQ3\ExamenCsharpQ3\obj\Debug\ExamenCsharpQ3.pdb
